@@ -164,7 +164,7 @@ function Home() {
             to="/mood"
             sx={{ px: 3 }}
           >
-            Get Started
+            Get Started muhahaha
           </Button>
           <Button
             variant="outlined"
